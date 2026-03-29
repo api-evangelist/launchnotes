@@ -1,0 +1,41 @@
+aid: launchnotes
+name: LaunchNotes
+description: >-
+  LaunchNotes is a release communication platform for sharing changelogs,
+  roadmaps, and deprecation notices.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Deprecation
+  - Changelog
+  - Release Notes
+  - Communication
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/launchnotes/refs/heads/main/apis.yml
+created: '2026-03-29'
+modified: '2026-03-29'
+specificationVersion: '0.19'
+apis:
+  - aid: launchnotes:launchnotes
+    name: LaunchNotes
+    description: >-
+      LaunchNotes is a release communication platform for sharing changelogs,
+      roadmaps, and deprecation notices.
+    humanURL: https://www.launchnotes.com/
+    tags:
+      - Deprecation
+      - Changelog
+      - Release Notes
+    properties:
+      - type: Documentation
+        url: https://www.launchnotes.com/docs
+      - type: Website
+        url: https://www.launchnotes.com/
+common:
+  - type: Website
+    url: https://www.launchnotes.com/
+  - type: Documentation
+    url: https://www.launchnotes.com/docs
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
