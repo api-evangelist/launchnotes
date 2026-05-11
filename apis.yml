@@ -52,6 +52,44 @@ common:
     url: https://www.launchnotes.com/blog
   - type: X
     url: https://x.com/launchnotes
+  - type: Integrations
+    url: https://www.launchnotes.com/integrations
+integrations:
+  - name: Loom logomark
+  - name: Slack
+  - name: Google Chrome
+  - name: Teams
+  - name: RSS
+  - name: LinkedIn
+  - name: Intercom
+  - name: Notion
+  - name: Gmail
+  - name: Google Sheets
+  - name: Google Doc
+  - name: Google Forms
+  - name: Jira
+  - name: Confluence
+  - name: Airtable
+  - name: Asana
+  - name: Calendly
+  - name: Hubspot
+  - name: sendgrid
+  - name: mailgun
+  - name: Postmark
+  - name: SMTP
+  - name: Segment
+  - name: Google Analytics
+  - name: Amplitude
+  - name: Mixpanel
+  - name: Fullstory
+  - name: Pendo
+  - name: Heap
+  - name: ChatGPT
+  - name: Zapier
+  - name: LaunchNotes
+  - name: Marketo
+  - name: AICPA and SOC badge
+  - name: GDPR
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
