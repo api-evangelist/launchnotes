@@ -39,7 +39,7 @@ apis:
         url: https://www.launchnotes.com/
       - type: Documentation
         url: https://help.launchnotes.com/
-      - type: Sign Up
+      - type: SignUp
         url: https://app.launchnotes.io/users/sign_up
 common:
   - type: Website
