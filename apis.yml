@@ -42,6 +42,10 @@ apis:
       - type: SignUp
         url: https://app.launchnotes.io/users/sign_up
 common:
+  - type: GitHubOrganization
+    url: https://github.com/launchnotes
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/launchnotes
   - type: Website
     url: https://www.launchnotes.com/
   - type: Documentation
