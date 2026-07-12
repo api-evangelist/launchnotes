@@ -42,6 +42,10 @@ apis:
       - type: Signup
         url: https://app.launchnotes.io/users/sign_up
 common:
+  - type: TrustCenter
+    url: security/launchnotes-trust-center.yml
+  - type: DomainSecurity
+    url: security/launchnotes-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/launchnotes
   - type: LinkedIn
