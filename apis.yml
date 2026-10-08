@@ -77,6 +77,12 @@ apis:
       - type: Signup
         url: https://app.launchnotes.io/users/sign_up
 common:
+  - type: Plans
+    url: plans/launchnotes-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/launchnotes-rate-limits.yml
+  - type: FinOps
+    url: finops/launchnotes-finops.yml
   - type: TrustCenter
     url: security/launchnotes-trust-center.yml
   - type: DomainSecurity
