@@ -1,4 +1,4 @@
-# LaunchNotes (launchnotes)
+# LaunchNotes
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,51 +66,112 @@
 
 LaunchNotes is a release communication platform for sharing changelogs, roadmaps, and deprecation notices. The platform helps product, engineering, and customer-facing teams coordinate launches, communicate releases, and notify customers about deprecations through a structured publishing workflow and an extensible API.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/launchnotes/refs/heads/main/apis.yml)
+**Areas:** Changelog · Communications · Deprecation · Product · Release Notes · Roadmaps
 
-## Scope
+## LaunchNotes on APIs.io
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for LaunchNotes is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/launchnotes/](https://apis.io/providers/launchnotes/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Changelog, Communication, Deprecation, Product, Release Notes, Roadmap
+- [LaunchNotes](https://apis.io/apis/launchnotes/launchnotes/) — LaunchNotes is a release communication platform for sharing changelogs, roadmaps, and deprecation notices. The platform exposes an extensible API documented…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-29 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### MCP servers (1)
 
-### LaunchNotes
-LaunchNotes is a release communication platform for sharing changelogs, roadmaps, and deprecation notices. The platform exposes an extensible API documented through its Help Center for integrating release communication into developer workflows.
+Model Context Protocol servers that expose the API to agents.
 
-**Human URL:** [https://www.launchnotes.com/](https://www.launchnotes.com/)
+- [launchnotes](https://apis.io/servers/launchnotes/launchnotes/)
 
+#### Security (2)
 
-#### Tags:
+Authentication, trust centre, and vulnerability disclosure.
 
- - Changelog, Deprecation, Release Notes, Roadmap
+- [Launchnotes Domain Security](https://apis.io/security/launchnotes/launchnotes-domain-security/)
+- [Launchnotes Trust Center](https://apis.io/security/launchnotes/launchnotes-trust-center/)
 
-#### Properties
+#### Plans and pricing (1)
 
-- [Website](https://www.launchnotes.com/)
-- [Documentation](https://help.launchnotes.com/)
-- [Sign Up](https://app.launchnotes.io/users/sign_up)
+Published plans, tiers and prices.
 
-## Common Properties
+- [Launchnotes Plans Pricing](https://apis.io/plans/launchnotes/launchnotes-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Launchnotes Rate Limits](https://apis.io/rate-limits/launchnotes/launchnotes-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Launchnotes Finops](https://apis.io/finops/launchnotes/launchnotes-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.launchnotes.com/)
 - [Documentation](https://help.launchnotes.com/)
 - [Pricing](https://www.launchnotes.com/pricing)
 - [Blog](https://www.launchnotes.com/blog)
-- [X](https://x.com/launchnotes)
+- [GitHub](https://github.com/launchnotes)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 17.0** — emerging · rubric 0.25.0 · scored 2026-10-23
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 60.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 39.5 |
+
+**Agent readiness 12.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/launchnotes/](https://apis.io/providers/launchnotes/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LaunchNotes: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/launchnotes/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
